@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NoraTailor/5-clock/static/css/main.3a2fb380.css",
-    "main.js": "/NoraTailor/5-clock/static/js/main.de686abe.js",
-    "index.html": "/NoraTailor/5-clock/index.html",
-    "main.3a2fb380.css.map": "/NoraTailor/5-clock/static/css/main.3a2fb380.css.map",
-    "main.de686abe.js.map": "/NoraTailor/5-clock/static/js/main.de686abe.js.map"
+    "main.css": "/5-clock/static/css/main.3a2fb380.css",
+    "main.js": "/5-clock/static/js/main.de686abe.js",
+    "index.html": "/5-clock/index.html",
+    "main.3a2fb380.css.map": "/5-clock/static/css/main.3a2fb380.css.map",
+    "main.de686abe.js.map": "/5-clock/static/js/main.de686abe.js.map"
   },
   "entrypoints": [
     "static/css/main.3a2fb380.css",
